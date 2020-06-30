@@ -1,0 +1,70 @@
+body{
+    background-color:#DFD92A;
+}
+img{
+    width: 600px;
+    height: 400px;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+#grandote{
+    width: 250px;
+    height: 190px;
+       float: left;
+    margin-left: 125px;
+    margin-top: 5px;
+    word-wrap: break-word;
+}
+#chiquito{
+    width: 250px;
+    height: 150px;
+    
+   
+    float: right;
+    margin-right: 10px;
+    margin-top: 25px;
+   
+    word-wrap: break-word;
+}
+#big{
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    font-weight: 1000;
+}
+#small{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+    font-weight: 640;
+}
+#imagen{
+    width: 700px;
+    height: 610px;
+    background-color: white;
+    margin-left: 490px;
+    margin-top: 10px;
+    
+}
+#valores{
+    margin-top: 40px;
+    background-color:#4FB3B9;
+    width: 300px;
+    height: 200px;
+    float: left;
+    border-radius: 25%;
+}
+#perrogrande{
+    margin-left: 40px;
+    margin-top: 20px;
+    width: 220px;
+}
+#perrochico{
+    margin-left: 40px;
+    margin-top: 20px;
+    width: 220px;
+}
+#boton{
+    margin-left: 80px;
+    margin-top: -60px;
+}
